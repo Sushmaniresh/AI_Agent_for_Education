@@ -17,6 +17,7 @@ This project is an AI-powered assistant designed to help students optimize their
 
 video demo - https://drive.google.com/drive/folders/1qUKpR_GEsRR7yHxVXsvgoDx9iB5JfLlZ?usp=sharing 
 
+![image](https://github.com/user-attachments/assets/8644ed88-e0b5-4135-96cf-c50a8c79d766)
 ![image](https://github.com/user-attachments/assets/33660dde-73ff-448c-9960-0a52d4892272) 
 ![image](https://github.com/user-attachments/assets/13287e1b-78f5-4561-a7de-e9828b6b51fb)
 ![image](https://github.com/user-attachments/assets/3d5d286c-3ea5-4b8b-82a9-3b54d0cf6fff)
