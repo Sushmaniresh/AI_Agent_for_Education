@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/33660dde-73ff-448c-9960-0a52d4892272)# AI_Agent_for_Education 
+# AI_Agent_for_Education 
+
+![image](https://github.com/user-attachments/assets/33660dde-73ff-448c-9960-0a52d4892272)
 
 # AI Schedule Assistant & Productivity Tracker
 
