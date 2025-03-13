@@ -1,4 +1,4 @@
-# AI_Agent_for_Education 
+![image](https://github.com/user-attachments/assets/33660dde-73ff-448c-9960-0a52d4892272)# AI_Agent_for_Education 
 
 # AI Schedule Assistant & Productivity Tracker
 
@@ -14,4 +14,6 @@ This project is an AI-powered assistant designed to help students optimize their
 - **Professor Recommendations**: Helps students find professors whose research aligns with their interests.
 - **Activity Tracking**: Monitors and displays the time spent on productivity platforms, offering insights into daily habits.
 - **Mental Health Support**: Provides mood tracking, daily mental check-ins, and mental well-being resources.
+
+video demo - https://drive.google.com/drive/folders/1qUKpR_GEsRR7yHxVXsvgoDx9iB5JfLlZ?usp=sharing
 
